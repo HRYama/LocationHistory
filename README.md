@@ -1,4 +1,4 @@
-This code is used Google location history("https://support.google.com/accounts/answer/3024190?hl=en">Download your data > Location history(.json))
+This code is used Google location history("<https://support.google.com/accounts/answer/3024190?hl=en>">Download your data > Location history(.json))
 
 This code can do two things.
 
@@ -8,11 +8,11 @@ This code can do two things.
 
 HOW TO USE
 
-  >>location_mapping.py InputFileName [-h] [-o] [-r] [-m]
+  'location_mapping.py InputFileName [-h] [-o] [-r] [-m]'
 
-  *InputFile is your location data(.json)
+  InputFile is your location data(.json)
 
-  optional argment:
+  *optional argment:
 
 	-h, --help          Show help and exit
 	-o, --output        Name output file *now useable only .csv file
@@ -22,10 +22,10 @@ HOW TO USE
 	-m, --map           Make html map. Output file is "map.html"(open with Chrome or FireFox or so on.)
 
 
-Licence
-  use or something doing according to Creative Common(creativecommons.org/licenses)
+Licence  
+  use or something doing according to Creative Common(<creativecommons.org/licenses>)
 
-======================================================
+----------------------------------------  
 Please feel free to contact me.
 Tell me some errors or Pull-Request.
 If you use this code and tell me, I'm so happy.

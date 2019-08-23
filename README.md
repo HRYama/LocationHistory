@@ -8,22 +8,22 @@ This code can do two things.
 
 HOW TO USE
 
-  'location_mapping.py InputFileName [-h] [-o] [-r] [-m]'
+  `location_mapping.py InputFileName [-h] [-o] [-r] [-m]`
 
   InputFile is your location data(.json)
 
-  *optional argment:
+  * optional argment:
 
-	-h, --help          Show help and exit
-	-o, --output        Name output file *now useable only .csv file
-			     default:"InputFileName".csv
-	-r, --radious       When make map, line from each to each within this distance(but only degree).
-			     default:0.005
-	-m, --map           Make html map. Output file is "map.html"(open with Chrome or FireFox or so on.)
+    * -h, --help          Show help and exit
+    * -o, --output        Name output file (now useable only .csv file)
+			                     default:"InputFileName".csv
+    * -r, --radious       When make map, line from each to each within this distance(but only degree).
+			                     default:0.005
+    * -m, --map           Make html map. Output file is "map.html"(open with Chrome or FireFox or so on.)
 
 
 Licence  
-  use or something doing according to Creative Common(<creativecommons.org/licenses>)
+  use or something doing according to Creative Common(<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 ----------------------------------------  
 Please feel free to contact me.
@@ -32,4 +32,4 @@ If you use this code and tell me, I'm so happy.
 
 
 
-Twitter(@dococonuts)
+Twitter([@dococonuts](https://twitter.com/dococonuts))
